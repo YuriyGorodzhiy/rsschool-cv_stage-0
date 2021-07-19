@@ -26,9 +26,19 @@ I take a responsible attitude to the tasks set, and even if they are difficult f
 - MySQL
 
 ## Code example:
+```
+let message;
+message = 'Hello!';
+
+alert(message);
+```
 
 ## Portfolio:
+* Educational project of a multi-page site. Link to the website: http://free135447.ispsite.ru/
+* Educational project for online clothing and footwear store. Link to the online store repository: https://github.com/YuriyGorodzhiy/Learning-project_2
 
 ## Education:
+**2003-2009: MOSCOW ENERGY INSTITUTE (NATIONAL RESEARCH UNIVERSITY)** - Specialist of Thermal power plants
 
-## English:
+## English Level:
+**A2** - Pre-Intermediate
