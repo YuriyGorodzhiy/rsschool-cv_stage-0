@@ -1,1 +1,1 @@
-https://YuriyGorodzhiy.github.io/rsschool-cv/cv
+https://YuriyGorodzhiy.github.io/rsschool-cv_stage-0/cv
